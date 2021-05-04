@@ -1,6 +1,8 @@
-# Brute Force kNN
- This is a basic implementation of brute-force kNN which was developed for fun.
+# lilililerle++
+ This repo contains simple yet fast implementations of k-Nearest Neighbor algorithm.
  
- - Sample case can be enhanced by using LDA since images are data instances with large number of features.
- - Class is very lightweight and does not contain any performance metric. 
- - Only the Minkowski and Eucledian Distance metrics are implemented.
+ ## Module Content 
+- Naive Sequential Implementation
+- OpenMP Implementation
+- CUDA Implementation
+- OpenMP - CUDA Mixed
