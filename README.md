@@ -1,4 +1,4 @@
-# kNN++
+# kNN 
  This repo contains simple yet fast implementations of k-Nearest Neighbor algorithm.
  
  ## Module Content 
