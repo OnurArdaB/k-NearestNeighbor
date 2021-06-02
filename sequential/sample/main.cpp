@@ -2,7 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include "../kNN/model.hpp"
+#include "../model/model.hpp"
 using namespace std;
 
 vector<string> split(const string& str, const string& delim){
