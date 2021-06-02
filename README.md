@@ -3,5 +3,5 @@
  
  ## Module Content 
 - Naive Sequential Implementation ✔️
-- OpenMP Implementation ❌
+- OpenMP Implementation ✔️
 - CUDA Implementation ❌
