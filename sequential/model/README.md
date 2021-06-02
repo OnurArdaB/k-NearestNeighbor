@@ -9,7 +9,7 @@ with respect to the test data.
 
 Future Work:
 
-[] Add more distance metrics
-[] Multi-Threading for Nearest Neighbor detection
-[] Add different algorithms to compute the nearest neighbor
-[] Performance Metrics inside the class
+- [] Add more distance metrics
+- [] Multi-Threading for Nearest Neighbor detection
+- [] Add different algorithms to compute the nearest neighbor
+- [] Performance Metrics inside the class
